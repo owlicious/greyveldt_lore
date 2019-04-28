@@ -14,7 +14,7 @@ The selectively low-tech hub of national activity encircling this northerly nook
 
 Pocket settlements, sparsely-populated by an ancient alpine race (Fiorraga Auldres), are peppered throughout the crystalline mountains. These native people, ascetic monks mostly, adapted to the turbulent climate over millennia, and communicate extensively by way of avian heraldry - which caught on widely throughout the kingdom at large and, in light of a nationwide Internet ban, is Hitherlan's preferred means of correspondence.
 
-These hermits, the solemn ornithologists of Hitherlani culture, maintain a sacred bond between the winged emissaries of the Thereafter and this delicate mortal coil. Their practices are as timeless as the mountain corridors they inhabit.
+These hermits, the solemn ornithologists of Hitherlan culture, maintain a sacred bond between the winged emissaries of the Thereafter and this delicate mortal coil. Their practices are as timeless as the mountain corridors they inhabit.
 
 It is said by some that Hitherlan was formed in a yestermillennia when the region's indigenous tribes were mythically conquered by a great evil that since vanished into obscurity. It is said by some that the legends of the mountain folk hold the forgotten secrets of the Old World. It is said by others that "they themselves forgot and made up a bunch of myths to patch in the gaps. Oh, oral history, you quaint doddering thing you."
 
@@ -42,7 +42,7 @@ The FA, the ancient mountain people of Hitherlan, are shapeshifters whose native
 
 
 ### The Asatru : Priests of the Undying
-The Asatru are both the keepers of the Auldeglace Tomb and the crusader army of God Empress Astryd. On a mundane level, they are an army of Hitherlani orphans and unwanted children trained for battle from a very young age, often from toddlerhood. Until the Return, they will remain stewards of the lamb and defenders of the tomb, but legend has it that a time will come when God Empress Astryd will rise again and the asatru will conquer the nations Hitherlan once possessed, the conquest for the glory of Astryd and the blood of the fallen in sacrament to the Unseelie Court.
+The Asatru are both the keepers of the Auldeglace Tomb and the crusader army of God Empress Astryd. On a mundane level, they are an army of Hitherlan orphans and unwanted children trained for battle from a very young age, often from toddlerhood. Until the Return, they will remain stewards of the land and defenders of the tomb, but legend has it that a time will come when God Empress Astryd will rise again and the asatru will conquer the nations Hitherlan once possessed, the conquest for the glory of Astryd and the blood of the fallen in sacrament to the Unseelie Court.
 
 ### The Proletariat
 A bunch of mostly pretty inbred farmers who believe in magic, in the sense that they live in terror of the whims of their capricious god and lascivious birdfolk. (As discussed, the birdfolk aren't really terribly lascivious at all...) More on them later.
@@ -63,7 +63,7 @@ Now remember when I explained how conservation of mass applies also to "one's al
 While this lifeforce (a person's ghost) remains between worlds (in the Nether), it's fair game to the Unseelie, apex predators of the Nether. Sometime ago, early Hitherlan mystics must have communed with the spirits - ghosts or the predators themselves - and established a symbiosis with these otherworldly creatures. An Unseelie can inhabit the body of a willing host, temporarily. The feeling of having one's body occupied by such an entity is a feeling of supernatural power, the perception of invincibility. For this time, a mortal is not immune to harm by a long shot, but doesn't feel pain, or fatigue - instead, they become compelled by the spirit's own bloodlust, the desire to feed their visiting entity. Once, it is said, this led to the Asatru conquering half the world.
 This is not without its price. Once a spirit has had its fill, it departs from the mortal host - sated with its dinner of ghosts and seeking the freedom of disembodied life. At this point, the mortal - perhaps moreso than ever - must finally reconfront his or her mortality: perceive the pain long suppressed, tend the wounds left unheeded, surrender to frailty and fatigue. The desperation of mortal brittleness often drives the possessed to seek more possession and longer, increasingly struggling to lure hungry spirits to possess him/her for to be fed. These sorts, lacking self-control, often are their own undoing - in their pursuit of oblivion to weakness, they become careless and jeopardize their own survival. When their victims fight back, they can't feel the dying person's devastating counteracts until the spirit eventually leaves them - a heap of ruined flesh dying on the earth. And the spirit then camps beside this body, eager to greet its former mortal slave in the Nether. Eager to be fed one last time.
 
-# Hitherlani Language
+# Hitherlan Language
 ### Pronunciation notes
 Y (any) is Cyrillic pronunciation, i.e. somewhere between "oo" and "uh". Example: the "ui" sound in "druid" when you roll the R.
 AU (any) is Old English pronunciation, i.e. between "ull", "ahl" and "ol" but closest to "ol". Example: the "u" in "Ugh!" 
